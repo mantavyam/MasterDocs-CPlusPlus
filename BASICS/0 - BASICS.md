@@ -4,6 +4,7 @@
    - How Comments are Understood by the Compiler ?
    - Single-line comments (`//`)
    - Multi-line comments (`/* */`)
+   [![Video Guide](https://img.youtube.com/vi/WM4tig_3QR4/maxresdefault.jpg)](https://youtu.be/WM4tig_3QR4?si=yuJYuLxKxZbkFKKZ)
 
 2. [[2 - Tokens]]
    - Operator 
@@ -12,6 +13,7 @@
    - Special Symbols
    - Keywords
    - Identifiers
+   [![Video Guide](https://img.youtube.com/vi/ILZU6INJQhk/maxresdefault.jpg)](https://youtu.be/ILZU6INJQhk?si=VxXb21jk6dncLKkx)
 
 3. [[3 - Variables]]
    - Declaration and initialization
