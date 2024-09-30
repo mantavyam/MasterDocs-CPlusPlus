@@ -222,5 +222,4 @@ Tokens are fundamental components of C++ programming, serving as the building bl
 By mastering tokens, you'll be better equipped to navigate the C++ language, analyze code more effectively, and write programs that are not only functional but also well-organized and easy to understand.
 
 # VIDEO GUIDE
-
-![](https://youtu.be/ILZU6INJQhk?si=O-GrZcMw06MIg0ys)
+[![Watch the video](https://img.youtube.com/vi/ILZU6INJQhk/maxresdefault.jpg)](https://youtu.be/ILZU6INJQhk?si=O-GrZcMw06MIg0ys)
