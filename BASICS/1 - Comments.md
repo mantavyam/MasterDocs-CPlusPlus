@@ -42,3 +42,5 @@ In this example, anything between`/* and */` is ignored by the compiler and does
 Comments are a powerful tool in C++ programming that enhance the readability and maintainability of code. By understanding how comments are processed by the compiler and introducing them effectively, developers can improve collaboration, reduce debugging time, and create more maintainable software.
 ## VIDEO GUIDE
 ![](https://youtu.be/WM4tig_3QR4?si=7xlJcTQTPZtKDgzO)
+
+[![Watch the video](https://img.youtube.com/vi/WM4tig_3QR4?si=A8W3cNkqcd7tDNFq/hqdefault.jpg)](https://youtu.be/WM4tig_3QR4?si=A8W3cNkqcd7tDNFq)
