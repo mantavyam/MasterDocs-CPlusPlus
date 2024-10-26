@@ -1,0 +1,19 @@
+## Algorithms
+   - [[1 - Sorting Algorithm]]
+     - Bubble sort, selection sort, insertion sort
+     - Quick sort, merge sort, heap sort
+   - [[2 - Searching Algorithm]]
+     - Linear search, binary search, hash-based search
+   - [[3 - Greedy Algorithm]]
+     - Coin change, fractional knapsack problem
+   - [[4 - Dynamic Programming]]
+     - Memoization vs tabulation
+     - 0/1 knapsack, Fibonacci series
+   - [[5 - Backtracking]]
+     - N-Queens problem, Sudoku solver
+   - [[6 - Divide & Conquer]]
+     - Merge sort, quick sort, binary search
+   - [[7 - Graph Algorithm]]
+     - Minimum spanning tree (Kruskal, Prim)
+     - Shortest path (Dijkstra, Bellman-Ford)
+     - Topological sort
