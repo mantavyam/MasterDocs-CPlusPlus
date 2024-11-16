@@ -12,8 +12,8 @@
 [3-variables.md](3-variables.md)
 {% endcontent-ref %}
 
-{% content-ref url="4-datatypes-and-literals.md" %}
-[4-datatypes-and-literals.md](4-datatypes-and-literals.md)
+{% content-ref url="4-datatypes-and-literals/" %}
+[4-datatypes-and-literals](4-datatypes-and-literals/)
 {% endcontent-ref %}
 
 {% content-ref url="5-namespace.md" %}
@@ -24,16 +24,16 @@
 [6-preprocessor-directives.md](6-preprocessor-directives.md)
 {% endcontent-ref %}
 
-{% content-ref url="7-input-output.md" %}
-[7-input-output.md](7-input-output.md)
+{% content-ref url="7-input-output/" %}
+[7-input-output](7-input-output/)
 {% endcontent-ref %}
 
-{% content-ref url="8-control-statements.md" %}
-[8-control-statements.md](8-control-statements.md)
+{% content-ref url="8-control-statements/" %}
+[8-control-statements](8-control-statements/)
 {% endcontent-ref %}
 
-{% content-ref url="9-functions.md" %}
-[9-functions.md](9-functions.md)
+{% content-ref url="9-functions/" %}
+[9-functions](9-functions/)
 {% endcontent-ref %}
 
 {% content-ref url="10-pointers-and-references.md" %}
@@ -42,10 +42,6 @@
 
 {% content-ref url="11-arrays.md" %}
 [11-arrays.md](11-arrays.md)
-{% endcontent-ref %}
-
-{% content-ref url="12-strings.md" %}
-[12-strings.md](12-strings.md)
 {% endcontent-ref %}
 
 {% content-ref url="13-structure-and-union.md" %}
