@@ -20,12 +20,8 @@
 [5-inheritance.md](5-inheritance.md)
 {% endcontent-ref %}
 
-{% content-ref url="6-polymorphism.md" %}
-[6-polymorphism.md](6-polymorphism.md)
-{% endcontent-ref %}
-
-{% content-ref url="7-overloading.md" %}
-[7-overloading.md](7-overloading.md)
+{% content-ref url="6-polymorphism/" %}
+[6-polymorphism](6-polymorphism/)
 {% endcontent-ref %}
 
 {% content-ref url="8-standard-template-library.md" %}
